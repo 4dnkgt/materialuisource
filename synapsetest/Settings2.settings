@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="synapsetest" GeneratedClassName="Settings2">
+  <Profiles />
+  <Settings>
+    <Setting Name="paths" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\raylen\Desktop\raylen\Synapse-X</Value>
+    </Setting>
+    <Setting Name="firsttimes" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="topmosts" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="checks" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
